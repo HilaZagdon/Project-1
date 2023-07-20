@@ -1,0 +1,104 @@
+h1 {
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  background-color: #41b5c7;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 2;
+}
+
+#copyrights {
+  font-size: 15px;
+}
+
+.Images {
+  font-size: 35px;
+  font-weight: bold;
+  border: 5px solid #2e33349f;
+}
+
+body {
+  background-color: #ced9dc;
+}
+
+/* Styling links */
+
+a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: #acb4b67c;
+  box-shadow: 1px 1px 1px 1px;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: #4da0b7;
+
+  text-decoration: underline;
+}
+
+#Box1 {
+  float: left;
+}
+
+#Box2 {
+  float: right;
+  margin-bottom: 100px;
+}
+
+.text1 {
+  padding-top: 50px;
+  padding-right: 150px;
+  margin-right: 600px;
+  padding-bottom: 243px;
+  text-align: center;
+  background-color: #41b5c7;
+}
+
+.ok {
+  padding-top: 50px;
+  padding-bottom: 186px;
+  margin-left: 50px;
+  text-align: center;
+  background-color: #41b5c7;
+}
+
+#caption {
+  background-color: #41b5c7;
+}
+
+.form {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 25px;
+  padding-bottom: 50px;
+  padding-top: 172px;
+  background-color: #41b5c7;
+}
+
+#photo {
+  margin-top: 17px;
+  float: left;
+  border: 5px solid #9fa8aa;
+}
